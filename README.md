@@ -4,14 +4,14 @@
 
 <br/>
 
-```text
-os:       macOS / Linux
-school:   Texas A&M '26 -- Electronic Systems Engineering
-role:     Incoming SWE @ Google
-stack:    Python  C++  TensorFlow  Gemini
-location: College Station --> Seattle
-wins:     2x Hackathon Winner
-exp:      TensorFlow optimization, YouTube EffectMaker, AI bug automation
+```
+  Cesar Magana / CesMag
+  ------------------------------------------------
+  school    Texas A&M '26 -- Electronic Systems Eng
+  role      Incoming SWE @ Google
+  location  College Station --> Seattle
+  wins      2x Hackathon Winner
+  exp       TensorFlow  |  YouTube EffectMaker  |  Gemini
 ```
 
 <br/>
