@@ -4,15 +4,13 @@
 
 <br/>
 
-```
-Cesar Magana / CesMag
-------------------------------------------
-school    Texas A&M '26 -- Electronic Systems Eng
-role      Incoming SWE @ Google
-location  College Station --> Seattle
-wins      2x Hackathon Winner
-exp       TensorFlow  |  YouTube EffectMaker  |  Gemini
-```
+| | |
+|---|---|
+| school | Texas A&M '26 - Electronic Systems Eng |
+| role | Incoming SWE @ Google |
+| location | College Station -> Seattle |
+| wins | 2x Hackathon Winner |
+| exp | TensorFlow · YouTube EffectMaker · Gemini |
 
 <br/>
 
