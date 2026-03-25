@@ -34,6 +34,6 @@ exp:      TensorFlow optimization, YouTube EffectMaker, AI bug automation
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/cesarmagana2002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cesarmagana2002)
 
 </div>
